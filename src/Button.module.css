@@ -1,0 +1,9 @@
+.btn{
+    background-color: red;
+    border-radius: 3rem;
+}
+.box{
+    margin-top: 2rem;
+    padding: 2rem;
+    border-radius: 50%;
+}
